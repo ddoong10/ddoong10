@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=260\&section=header\&text=Donghyun%20Kim%20%7C%20Backend%20Developer)
+![header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=260\&section=header\&text=Donghyun%20Kim%20%7C)
 
 ## 👋 About Me
 
@@ -29,8 +29,10 @@
 
 ## 📊 GitHub Stats
 
-![Donghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddoong10&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddoong10&layout=compact)
+![Donghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddoong10&show_icons=true&theme=default&v=2)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddoong10&layout=compact&v=2)
+
 
 
 ---
