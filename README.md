@@ -29,12 +29,11 @@
 
 ## 📊 GitHub Stats
 
-![Donghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddoon1\&show_icons=true\&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddoon1\&layout=compact)
+![Donghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddoong10\&show_icons=true\&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddoong10\&layout=compact)
 
 ---
 
 ## 📫 Contact
 
-* **Email:** [ddoon5747@gmail.com](mailto:ddoon5747@gmail.com)
-* **GitHub:** [https://github.com/ddoon1](https://github.com/ddoon1)
+* **Email:** [ddoon5747@gmail.com](mailto:ddoong10@uos.ac.kr)
