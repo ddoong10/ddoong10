@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=260\&section=header\&text=Donghyun%20Kim%20%7C)
+![header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=260\&section=header\&text=Donghyun%20Kim%)
 
 ## 👋 About Me
 
