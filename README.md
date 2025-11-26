@@ -24,7 +24,6 @@
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white"/>
 
 </div>
----
 
 ## 📫 Contact
 
