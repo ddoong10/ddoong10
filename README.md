@@ -24,17 +24,6 @@
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white"/>
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-![Donghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddoong10&show_icons=true&theme=default&v=2)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddoong10&layout=compact&v=2)
-
-
-
 ---
 
 ## 📫 Contact
