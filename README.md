@@ -5,11 +5,13 @@
 * 사람들의 불편함을 발견하고 기술로 해결하는 것을 가장 중요하게 생각하는 개발자입니다.
 * B2C 서비스를 만들고, 출시하고, 사용자 반응을 보며 고치는 일을 기록합니다. → **[ddoong.dev](https://ddoong.dev)**
 
+* 서울시립대 컴퓨터과학부 재학 중 · 2026.07부터 여행 앱 DocentPro 엔지니어
+
 ### 🚀 만든 것
-* **[UosAsk](https://www.uosask.com/)**: 흩어진 학교·학과 공지를 한 번에 찾는 서울시립대 공지 챗봇. 프로젝트 리드, 백엔드·인프라 ([코드](https://github.com/ALOC-dev/4th-project-uosAsk-Server))
-* **시대생 (UOSLIFE)**: 서울시립대 학생 앱. 팀 백엔드로 시대팅 실시간 채팅, 동아리 추천, 게임 점수판 API 개발
+* **UosAsk** (2025): 흩어진 학교·학과 공지를 한 번에 찾는 서울시립대 공지 챗봇. 프로젝트 리드, 백엔드·인프라 ([코드](https://github.com/ALOC-dev/4th-project-uosAsk-Server))
+* **시대생 (UOSLIFE)** (2026.01–2026.04): 서울시립대 학생 앱. 팀 백엔드로 시대팅 실시간 채팅, 동아리 추천, 게임 점수판 API 개발
 * **[이루모아](https://www.irumoa.com/)**: 서울시립대 비교과 통합·추천 서비스 ([코드](https://github.com/UOS-Irumoa/Irumoa-server))
-* **미리스톡 (Mili-Stock)**: 장병용 PX 재고 확인·픽업 예약. 인터뷰부터 국군복지단 제안까지 PM·백엔드 ([코드](https://github.com/ddoong10/Project-mili-stock))
+* **미리스톡 (Mili-Stock)** (2023.06–2024.01): 장병용 PX 재고 확인·픽업 예약. 인터뷰부터 국군복지단 제안까지 PM·백엔드 ([코드](https://github.com/ddoong10/Project-mili-stock))
 * **[can-bridge](https://github.com/ddoong10/can-bridge)**: Claude Code와 Codex CLI 사이에서 대화를 그대로 옮기는 어댑터
 ---
 
